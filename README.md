@@ -3,6 +3,9 @@
 Landing page de un festival de música electrónica desarrollada como proyecto de práctica frontend. El foco estuvo en diseño responsive, interacciones con JavaScript vanilla y automatización del flujo de trabajo con Gulp.
 
 **Demo en vivo:** https://festival-musica-sebas.netlify.app/
+<img width="1897" height="895" alt="image" src="https://github.com/user-attachments/assets/45119a26-9a7b-4632-82c8-409d0476395c" />
+
+
 
 ---
 
